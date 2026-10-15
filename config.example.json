@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "hash-encode": {
+      "command": "node",
+      "args": ["/你的绝对路径/hash-encode-mcp/index.js"]
+    }
+  }
+}
